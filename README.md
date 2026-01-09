@@ -87,19 +87,25 @@ try {
 
 ## Example Response
 ```json
+
 {
-  "data": {
-    "type": "api_job_result",
-    "id": "job-id-here",
-    "attributes": {
-      "status": "success",
-      "type": "content_processing",
-      "result": {
-        "content": "Processed result content here..."
-      }
+    "data": {
+        "type": "api_job_result",
+        "id": "b93aae27-87b8-4c68-925a-f6c991cc563c",
+        "attributes": {
+            "status": "success",
+            "type": "content_keywords",
+            "result": [
+                "Las Vegas Grand Prix",
+                "Max Verstappen",
+                "Formel 1",
+                "Lewis Hamilton",
+                "Fernando Alonso"
+            ]
+        }
     }
-  }
 }
+
 ```
 ---
 
