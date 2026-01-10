@@ -16,7 +16,7 @@ Check the full documentation on the [Content Keywords Tags API for PHP API](http
 | Resource | Link |
 |----------|------|
 | **Main API Documentation** | [Authorization, Webhooks, Polling & More](https://documenter.getpostman.com/view/31106842/2s9Ye8faUp) |
-| **Postman Documentation** | [View Docs](https://documenter.getpostman.com/view/31106842/2sBXVeGsVX) |
+| **Postman Documentation** | [View Docs](https://documenter.getpostman.com/view/31106842/2sBXVeGsRR) |
 | **Product Details** | [SharpAPI.com](https://sharpapi.com/en/catalog/ai/content-marketing-automation/keywords-tags-generator) |
 | **SDK Libraries** | [GitHub - SharpAPI SDKs](https://github.com/sharpapi) |
 
